@@ -1,0 +1,11 @@
+h1
+{
+    font-family: Arial;
+    color: red;
+}
+
+p
+{
+    font-family: inherit;
+    color: blue;
+}
